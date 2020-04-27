@@ -1,8 +1,6 @@
 framework module ProtocolBuffers {
-    umbrella header "ProtocolBuffers.h"
+  umbrella header "ProtocolBuffers.h"
 
-    export *
-    module * { export * }
-
-    link framework "Foundation"
+  export *
+  module * { export * }
 }
