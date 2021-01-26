@@ -4,7 +4,7 @@
 import PackageDescription
 
 let package = Package(
-    name: "AdformAdvertising",
+    name: "ProtocolBuffers",
     platforms: [
         .iOS(.v8)
     ],
