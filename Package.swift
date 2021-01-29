@@ -6,7 +6,7 @@ import PackageDescription
 let package = Package(
     name: "ProtocolBuffers",
     platforms: [
-        .iOS(.v8)
+        .iOS(.v9)
     ],
     products: [
         .library(
